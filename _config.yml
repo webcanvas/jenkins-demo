@@ -1,3 +1,4 @@
 name: jenkins-demo
 exclude: [Gemfile]
 markdown: kramdown
+releaseVersion: 0.0.1
